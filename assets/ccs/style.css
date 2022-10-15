@@ -1,0 +1,132 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 0%;
+  width: 100%;
+}
+
+h1 {
+  margin: 0%;
+  font-size: 3em;
+}
+
+.bgheader {
+  display: inline;
+  width: 100%;
+  height: 850px;
+}
+
+.parrafo {
+  vertical-align: middle;
+  display: inline-block;
+  width: 25%;
+  padding: 10%;
+}
+
+.img1 {
+  vertical-align: middle;
+  display: inline-block;
+  width: 25%;
+  padding-left: 20%;
+}
+
+.img-parrafo {
+  background-color: black;
+  display: inline-block;
+  margin: 0%;
+  padding-top: 0%;
+  vertical-align: middle;
+  width: 100%;
+}
+
+p {
+  color: white;
+  text-align: center;
+  text-align: left;
+  width: 100%;
+}
+
+.caracteristicas {
+  background-color: gray;
+  vertical-align: middle;
+  height: 550px;
+}
+
+.caracteristicas h2 {
+  font-size: 3em;
+  text-align: center;
+  margin: 0%;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  vertical-align: middle;
+}
+
+.caracteristicas p {
+  text-align: center;
+}
+
+.ojo {
+  vertical-align: middle;
+  padding-bottom: 0%;
+  width: 33%;
+  display: inline-block;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 130px;
+}
+
+.paz {
+  vertical-align: middle;
+  width: 33%;
+  display: inline-block;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 130px;
+}
+
+.color {
+  vertical-align: middle;
+  padding-bottom: 0%;
+  width: 33%;
+  display: inline-block;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 130px;
+}
+
+.iguanas {
+  background-color: black;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.verdes {
+  display: inline-block;
+  width: 20vw;
+  height: 20vw;
+  text-align: center;
+  vertical-align: middle;
+  padding-inline: 20px;
+  padding-block: 90px;
+}
+
+footer {
+  display: inline-block;
+  background-color: gray;
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+}
+
+footer p {
+  text-align: center;
+}
